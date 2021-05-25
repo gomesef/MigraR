@@ -1,5 +1,7 @@
 
-# Migrar
+# MigraR
+
+# How to cite
 
 MigraR is a graphical user interface (GUI) software  implemented in R using the Shiny framework. MigraR can be accessible online via the [Shinyapps.io server](https://nirbhaya-shaji.shinyapps.io/migrar/). It runs in MS Windows, Linux and macOS and requires prior installation of [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/). 
 
